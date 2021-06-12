@@ -5,6 +5,7 @@ theme:
   features:
     - navigation.instant
     - navigation.tabs
+    - navigation.sections
 markdown_extensions:
   - pymdownx.superfences
   - admonition
@@ -19,5 +20,9 @@ nav:
     - FBA头程: fba/index.md
     - 供应商管理: supplier/supply.md
     - 采购管理: supplier/index.md
+  - 改进反馈: feedback/index.md
+  - 技术架构:
+    - 架构: arch/index.md 
+  - 定价信息: pricing/index.md
 
   - 联系作者: about/contact.md
