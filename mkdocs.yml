@@ -1,6 +1,9 @@
 site_name: 善知鸟跨境ERP文档
 theme:
   name: material
+  logo: assets/puffin-logo2.png
+  palette:
+    primary: indigo
   language: zh
   features:
     - navigation.instant
@@ -13,7 +16,7 @@ markdown_extensions:
 
 nav:
   - 产品介绍: 
-    - 善知鸟ERP介绍: index.md
+    - 善知鸟跨境ERP介绍: index.md
   - 操作说明: 
     - 亚马逊店铺授权: amz-store/api-conf.md
     - Listing管理: listing/sync-listing.md
