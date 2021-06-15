@@ -14,12 +14,13 @@ markdown_extensions:
 nav:
   - 产品介绍: 
     - 善知鸟ERP介绍: index.md
-  - 功能介绍: 
-    - Listing管理: listing/product.md
-    - 货代管理: fba/index.md
+  - 操作说明: 
+    - 亚马逊店铺授权: amz-store/api-conf.md
+    - Listing管理: listing/sync-listing.md
+    - 货代管理: carrier/index.md
     - FBA头程: fba/index.md
     - 供应商管理: supplier/supply.md
-    - 采购管理: supplier/index.md
+    - 采购管理: supplier/purchase.md
   - 改进反馈: feedback/index.md
   - 技术架构:
     - 架构: arch/index.md 

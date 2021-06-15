@@ -1,0 +1,1 @@
+docker run --rm -it -p 52432:8000 -v "%cd%":/docs squidfunk/mkdocs-material
