@@ -1,6 +1,7 @@
 site_name: 善知鸟跨境ERP文档
 theme:
   name: material
+  custom_dir: overrides
   logo: assets/puffin-logo2.png
   palette:
     primary: indigo
